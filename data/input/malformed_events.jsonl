@@ -1,0 +1,2 @@
+{"event_id": "malformed-uuid-001", "customer_id": "CUST-0001", "operation": "INSERT", "payload": {unclosed_object
+CORRUPTED_RAW_STREAM_NON_JSON_RECORD_SEQUENCE_9999

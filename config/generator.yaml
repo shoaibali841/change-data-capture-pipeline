@@ -1,0 +1,23 @@
+# ============================================================================
+# Synthetic CDC Event Generator Configuration
+# ============================================================================
+
+# Deterministic random seed for reproducibility
+seed: 42
+
+# Event distribution configuration
+event_counts:
+  num_customers: 10
+  insert_count: 10
+  update_count: 8
+  delete_count: 2
+  duplicate_count: 3
+  out_of_order_count: 2
+  invalid_count: 5
+  malformed_count: 2
+
+# Output file destinations
+output_paths:
+  sample_events: "data/input/sample_events.json"
+  malformed_events: "data/input/malformed_events.jsonl"
+

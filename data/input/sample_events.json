@@ -1,0 +1,434 @@
+[
+  {
+    "event_id": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "customer_id": "CUST-0001",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:02:00Z",
+    "source_sequence": 110,
+    "payload": {
+      "customer_id": "CUST-0001",
+      "customer_name": "Allison Hill",
+      "email": "donaldgarcia@example.net",
+      "city": "New Roberttown"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "23b8c1e9-3924-46de-beb1-3b9046685257",
+    "customer_id": "CUST-0002",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:04:00Z",
+    "source_sequence": 120,
+    "payload": {
+      "customer_id": "CUST-0002",
+      "customer_name": "David Guzman",
+      "email": "jennifermiles@example.com",
+      "city": "South Bridget"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+    "customer_id": "CUST-0003",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:06:00Z",
+    "source_sequence": 130,
+    "payload": {
+      "customer_id": "CUST-0003",
+      "customer_name": "Abigail Shaffer",
+      "email": "jpeterson@example.org",
+      "city": "Curtisfurt"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "972a8469-1641-4f82-8b9d-2434e465e150",
+    "customer_id": "CUST-0004",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:08:00Z",
+    "source_sequence": 140,
+    "payload": {
+      "customer_id": "CUST-0004",
+      "customer_name": "Ryan Munoz",
+      "email": "blairamanda@example.com",
+      "city": "New Kellystad"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "customer_id": "CUST-0005",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:10:00Z",
+    "source_sequence": 150,
+    "payload": {
+      "customer_id": "CUST-0005",
+      "customer_name": "Michele Williams",
+      "email": "kendragalloway@example.org",
+      "city": "South Joshuastad"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+    "customer_id": "CUST-0006",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:12:00Z",
+    "source_sequence": 160,
+    "payload": {
+      "customer_id": "CUST-0006",
+      "customer_name": "Henry Santiago",
+      "email": "lynchgeorge@example.net",
+      "city": "East Steven"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+    "customer_id": "CUST-0007",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:14:00Z",
+    "source_sequence": 170,
+    "payload": {
+      "customer_id": "CUST-0007",
+      "customer_name": "Timothy Watts",
+      "email": "gabriellecameron@example.org",
+      "city": "Port Antonio"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+    "customer_id": "CUST-0008",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:16:00Z",
+    "source_sequence": 180,
+    "payload": {
+      "customer_id": "CUST-0008",
+      "customer_name": "Derek Clark",
+      "email": "jason76@example.net",
+      "city": "Thomasberg"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+    "customer_id": "CUST-0009",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:18:00Z",
+    "source_sequence": 190,
+    "payload": {
+      "customer_id": "CUST-0009",
+      "customer_name": "Justin Baker",
+      "email": "zhurst@example.com",
+      "city": "East William"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+    "customer_id": "CUST-0010",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:20:00Z",
+    "source_sequence": 200,
+    "payload": {
+      "customer_id": "CUST-0010",
+      "customer_name": "Anthony Rodriguez",
+      "email": "laurahenderson@example.org",
+      "city": "Jamesmouth"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_insert"
+  },
+  {
+    "event_id": "6c307511-b2b9-437a-a8df-6ec4ce4a2bbd",
+    "customer_id": "CUST-0001",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:23:00Z",
+    "source_sequence": 210,
+    "payload": {
+      "customer_id": "CUST-0001",
+      "customer_name": "Allison Hill",
+      "email": "donaldgarcia@example.net",
+      "city": "Tashatown"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "371ecd7b-27cd-4130-8722-9389571aa876",
+    "customer_id": "CUST-0002",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:26:00Z",
+    "source_sequence": 220,
+    "payload": {
+      "customer_id": "CUST-0002",
+      "customer_name": "David Guzman",
+      "email": "maldonadoamanda@example.com",
+      "city": "South Bridget"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "1a2a73ed-562b-4f79-8374-59eef50bea63",
+    "customer_id": "CUST-0003",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:29:00Z",
+    "source_sequence": 230,
+    "payload": {
+      "customer_id": "CUST-0003",
+      "customer_name": "Abigail Shaffer",
+      "email": "jpeterson@example.org",
+      "city": "Danielchester"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "5be6128e-18c2-4797-a142-ea7d17be3111",
+    "customer_id": "CUST-0004",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:32:00Z",
+    "source_sequence": 240,
+    "payload": {
+      "customer_id": "CUST-0004",
+      "customer_name": "Ryan Munoz",
+      "email": "shawnmckay@example.net",
+      "city": "New Kellystad"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "43b7a3a6-9a8d-4a03-980d-7b71d8f56413",
+    "customer_id": "CUST-0005",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:35:00Z",
+    "source_sequence": 250,
+    "payload": {
+      "customer_id": "CUST-0005",
+      "customer_name": "Michele Williams",
+      "email": "kendragalloway@example.org",
+      "city": "Teresaburgh"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+    "customer_id": "CUST-0006",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:38:00Z",
+    "source_sequence": 260,
+    "payload": {
+      "customer_id": "CUST-0006",
+      "customer_name": "Henry Santiago",
+      "email": "harrellkenneth@example.net",
+      "city": "East Steven"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85",
+    "customer_id": "CUST-0007",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:41:00Z",
+    "source_sequence": 270,
+    "payload": {
+      "customer_id": "CUST-0007",
+      "customer_name": "Timothy Watts",
+      "email": "gabriellecameron@example.org",
+      "city": "East Nathaniel"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "4b0dbb41-8d52-48f1-942c-3fe860e7a113",
+    "customer_id": "CUST-0008",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:44:00Z",
+    "source_sequence": 280,
+    "payload": {
+      "customer_id": "CUST-0008",
+      "customer_name": "Derek Clark",
+      "email": "amberosborne@example.net",
+      "city": "Thomasberg"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_update"
+  },
+  {
+    "event_id": "e2acf72f-9e57-4f7a-a0ee-89aed453dd32",
+    "customer_id": "CUST-0010",
+    "operation": "DELETE",
+    "event_time": "2026-11-13T10:49:00Z",
+    "source_sequence": 290,
+    "payload": {
+      "customer_id": "CUST-0010"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_delete"
+  },
+  {
+    "event_id": "3139d32c-93cd-49bf-9c94-1cf0dc98d2c1",
+    "customer_id": "CUST-0009",
+    "operation": "DELETE",
+    "event_time": "2026-11-13T10:54:00Z",
+    "source_sequence": 300,
+    "payload": {
+      "customer_id": "CUST-0009"
+    },
+    "_record_type": "valid",
+    "_test_category": "normal_delete"
+  },
+  {
+    "event_id": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "customer_id": "CUST-0001",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:02:00Z",
+    "source_sequence": 110,
+    "payload": {
+      "customer_id": "CUST-0001",
+      "customer_name": "Allison Hill",
+      "email": "donaldgarcia@example.net",
+      "city": "New Roberttown"
+    },
+    "_record_type": "duplicate",
+    "_test_category": "duplicate_event"
+  },
+  {
+    "event_id": "23b8c1e9-3924-46de-beb1-3b9046685257",
+    "customer_id": "CUST-0002",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:04:00Z",
+    "source_sequence": 120,
+    "payload": {
+      "customer_id": "CUST-0002",
+      "customer_name": "David Guzman",
+      "email": "jennifermiles@example.com",
+      "city": "South Bridget"
+    },
+    "_record_type": "duplicate",
+    "_test_category": "duplicate_event"
+  },
+  {
+    "event_id": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+    "customer_id": "CUST-0003",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:06:00Z",
+    "source_sequence": 130,
+    "payload": {
+      "customer_id": "CUST-0003",
+      "customer_name": "Abigail Shaffer",
+      "email": "jpeterson@example.org",
+      "city": "Curtisfurt"
+    },
+    "_record_type": "duplicate",
+    "_test_category": "duplicate_event"
+  },
+  {
+    "event_id": "a9488d99-0bbb-4599-91ce-5dd2b45ed1f0",
+    "customer_id": "CUST-0001",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:08:00Z",
+    "source_sequence": 205,
+    "payload": {
+      "customer_id": "CUST-0001",
+      "customer_name": "Late Arriving State",
+      "email": "late.arrival@example.com",
+      "city": "Stale City"
+    },
+    "_record_type": "out_of_order",
+    "_test_category": "late_arriving_event"
+  },
+  {
+    "event_id": "fc377a4c-4a15-444d-85e7-ce8a3a578a8e",
+    "customer_id": "CUST-0002",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:11:00Z",
+    "source_sequence": 215,
+    "payload": {
+      "customer_id": "CUST-0002",
+      "customer_name": "Late Arriving State",
+      "email": "late.arrival@example.com",
+      "city": "Stale City"
+    },
+    "_record_type": "out_of_order",
+    "_test_category": "late_arriving_event"
+  },
+  {
+    "event_id": "ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:50:00Z",
+    "source_sequence": 901,
+    "payload": {
+      "customer_name": "Anonymous User",
+      "email": "anon@example.com"
+    },
+    "_record_type": "invalid",
+    "_test_category": "missing_customer_id"
+  },
+  {
+    "event_id": "7412b293-4729-4739-a14f-f3d719db3ad0",
+    "customer_id": "CUST-9991",
+    "operation": "UPDATE",
+    "source_sequence": 902,
+    "payload": {
+      "customer_id": "CUST-9991",
+      "city": "Timeless City"
+    },
+    "_record_type": "invalid",
+    "_test_category": "missing_event_time"
+  },
+  {
+    "event_id": "29a3b2e9-5d65-4441-9588-42dea2bc372f",
+    "customer_id": "CUST-9992",
+    "operation": "UPSERT",
+    "event_time": "2026-11-13T10:52:00Z",
+    "source_sequence": 903,
+    "payload": {
+      "customer_id": "CUST-9992",
+      "customer_name": "Bad Op"
+    },
+    "_record_type": "invalid",
+    "_test_category": "invalid_operation"
+  },
+  {
+    "event_id": "invalid-uuid-string-12345",
+    "customer_id": "CUST-9993",
+    "operation": "INSERT",
+    "event_time": "2026-11-13T10:53:00Z",
+    "source_sequence": 904,
+    "payload": {
+      "customer_id": "CUST-9993",
+      "email": "baduuid@example.com"
+    },
+    "_record_type": "invalid",
+    "_test_category": "invalid_uuid"
+  },
+  {
+    "event_id": "ab9099a4-35a2-40ae-9af3-05535ec42e08",
+    "customer_id": "CUST-9994",
+    "operation": "UPDATE",
+    "event_time": "2026-11-13T10:54:00Z",
+    "source_sequence": -100,
+    "payload": {
+      "customer_id": "CUST-9994",
+      "city": "Negative Town"
+    },
+    "_record_type": "invalid",
+    "_test_category": "negative_source_sequence"
+  }
+]
